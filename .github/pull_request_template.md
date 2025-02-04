@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--thechannelco-acarol--aemdemos.aem.live/
-- After: https://<branch>--thechannelco-acarol--aemdemos.aem.live/
+- After: https://main--thechannelco-acarol--aemdemos.aem.live/
